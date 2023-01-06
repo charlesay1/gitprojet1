@@ -1,4 +1,4 @@
-body {
+ibody {
     background-color: red;
 }
 
@@ -7,5 +7,12 @@ h1 {
 }
 
 p {new paragraph, i love that}
+
+p {new paragraph, i love you very much}
+
+
+ibody {
+    background-color: yellow;
+}
 
 next year
